@@ -1,0 +1,65 @@
+{
+  "id": "4155247",
+  "name": "聆雀PC",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36327997",
+      "name": "全部",
+      "font_class": "quanbu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "36327999",
+      "name": "生活百科",
+      "font_class": "shenghuobaike",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "36328000",
+      "name": "效率工具",
+      "font_class": "xiaoshuaigongju",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "36328001",
+      "name": "职业专家",
+      "font_class": "zhiyezhuanjia",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "36328002",
+      "name": "趣味娱乐",
+      "font_class": "quweiyule",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "36328003",
+      "name": "写作辅助",
+      "font_class": "xiezuofuzhu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "36328004",
+      "name": "营销文案",
+      "font_class": "yingxiaowenan",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "36327953",
+      "name": "网络编程",
+      "font_class": "wangluobiancheng",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
